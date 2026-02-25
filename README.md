@@ -1,4 +1,6 @@
-# 郭子熠個人網頁專案總結報告
+# 郭子熠個人網頁專案 (Personal Webpage Project)
+
+✨ **[Live Demo 點此預覽](https://bmwqfjfuvqdtetlb5lgfn8.streamlit.app/)**
 
 ## 1. 專案概述
 本專案為 **郭子熠** 打造了一個現代化、單頁式的個人主頁，旨在展示極簡且具科技感的視覺設計，並具備實時時間顯示功能。
@@ -27,4 +29,4 @@
 ## 5. 文件說明
 - `index.html`：包含所有的結構、樣式與 JavaScript 邏輯。
 - `app.py`：Streamlit 入口文件，負責渲染 HTML。
-- `summary.md`：專案進度與功能說明文件。
+- `README.md`：專案進度與功能說明文件。
