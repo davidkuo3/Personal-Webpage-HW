@@ -4,7 +4,7 @@ import os
 
 # Set page config
 st.set_page_config(
-    page_title="郭子熠 | 个人主页",
+    page_title="郭子熠 | 個人主頁",
     page_icon="✨",
     layout="wide",
     initial_sidebar_state="collapsed",
